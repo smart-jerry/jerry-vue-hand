@@ -1,0 +1,24 @@
+{
+  "name": "jerry-vue-hand",
+  "version": "1.0.0",
+  "description": "vue纯手工搭建的框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smart-jerry/jerry-vue-hand.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smart-jerry/jerry-vue-hand/issues"
+  },
+  "homepage": "https://github.com/smart-jerry/jerry-vue-hand#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
